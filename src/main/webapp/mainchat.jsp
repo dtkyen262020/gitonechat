@@ -10,7 +10,7 @@
     <head>
         <link rel="stylesheet" type="text/css" href="styles.css">
         <script type="text/javascript" src="tochatjs.js"></script>
-        <title>OneChat</title>
+        <title>OneChat Live</title>
     <link rel="shortcut icon" href="icon.jpeg" />
     
     <script>
