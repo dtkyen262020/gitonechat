@@ -6,7 +6,10 @@
   <packaging>war</packaging>
   <name>OneChatApp</name>
   
+ 
+
    <dependencies>
+	   
 <dependency>
 <groupId>javax.servlet</groupId>
 <artifactId>javax.servlet-api</artifactId>
@@ -24,6 +27,9 @@
     <artifactId>firebase-admin</artifactId>
     <version>9.1.1</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
+
 </dependencies>
   
   
@@ -33,7 +39,7 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
         <configuration>
-          <release>17</release>
+          <release>11</release>
         </configuration>
       </plugin>
       <plugin>
